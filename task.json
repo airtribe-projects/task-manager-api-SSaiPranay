@@ -4,7 +4,8 @@
       "id": 1,
       "title": "Set up environment",
       "description": "Install Node.js, npm, and git",
-      "completed": true
+      "completed": true,
+      "priority": "medium"
     },
     {
       "id": 2,
